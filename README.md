@@ -1,2 +1,2 @@
-=== Zalary's Ruby Koans ===
+### Zalary's Ruby Koans ###
 for posterity
